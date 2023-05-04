@@ -18,6 +18,7 @@ class _HtmlFranchisingPageState extends State<HtmlFranchisingPage> {
       ),
       body: Padding(
         padding: const EdgeInsets.all(8.0),
+        
         child: HtmlWidget(
           '''
 <p><strong>Установи автоматы с повербанками в твоем городе и зарабатывай вместе с нами!</strong></p><p><br></p><p><a href=\"https://youtube.com\" rel=\"noopener noreferrer\" target=\"_blank\">Оставь заявку</a>, чтобы узнать подробности.</p><p>«q.watt» поделится опытом и поможет тебе развить собственную сеть автоматов с повербанками. Без маркетинговых сборов и скрытых вычетов.</p><p><br></p><p>Сотрудничество с «q.watt» - это:</p><p><br></p><p>Дополнительный трафик и доход</p><p><br></p><p>Твое заведение будет на карте наших зарядных станций - каждый месяц.</p>
