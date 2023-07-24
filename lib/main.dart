@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:html_example/screens/html_example_page.dart';
+import 'package:html_example/screens/example_franchising.dart';
 
 void main() {
   runApp(const MyApp());
@@ -17,7 +17,7 @@ class MyApp extends StatelessWidget {
       theme: ThemeData(
         primarySwatch: Colors.blue,
       ),
-      home: HtmlExamplePage(),
+      home: HtmlFranchisingPage(),
     );
   }
 }
